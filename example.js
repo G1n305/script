@@ -6,3 +6,4 @@ getTakeIn();
 getTakeOut();
 //checkStaticData(500);
 printLastOnetag();
+printCurrentOnetag();
