@@ -4,4 +4,5 @@ reset_tag_list();
 //printInformation();
 getTakeIn();
 getTakeOut();
-checkStaticData(500);
+//checkStaticData(500);
+printLastOnetag();
