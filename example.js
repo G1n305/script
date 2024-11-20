@@ -1,11 +1,11 @@
 console.log("starting...");
 led_blink();
 reset_tag_list();
-printInformation();
+//printInformation();
 getTakeIn();
 getTakeOut();
 getNumTagCurrent();
 getNumTagLast();
 //checkStaticData(500);
-//printLastOnetag();
-//printCurrentOnetag();
+printLastOnetag();
+printCurrentOnetag();
