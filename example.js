@@ -7,5 +7,5 @@ getTakeOut();
 getNumTagCurrent();
 getNumTagLast();
 //checkStaticData(500);
-//printLastOnetag();
+printLastOnetag();
 //printCurrentOnetag();
