@@ -9,3 +9,4 @@ getNumTagLast();
 //checkStaticData(500);
 printLastOnetag();
 printCurrentOnetag();
+detroyInventory();
