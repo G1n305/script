@@ -9,6 +9,6 @@ getNumTagLast();
 printLastOnetag();
 printCurrentOnetag();
 detroyInventory();
-checkReadCmdOnly(0);
-//StopReadCmdOnly(0);
+//checkReadCmdOnly(0);
+StopReadCmdOnly(0);
 //printInformation();
