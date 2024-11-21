@@ -1,7 +1,6 @@
 console.log("starting...");
 led_blink();
 reset_tag_list();
-//printInformation();
 getTakeIn();
 getTakeOut();
 getNumTagCurrent();
@@ -10,3 +9,4 @@ getNumTagLast();
 printLastOnetag();
 printCurrentOnetag();
 detroyInventory();
+printInformation();
