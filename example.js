@@ -34,7 +34,7 @@ console.log("starting...");
 //             console.log("Invalid choice");
 //     }
 // }
-// let RecvBuff = [1, 2, 3, 4, 5, 6, 7, 8];
+
 while (true) {
     led_blink();
     _delay(1000);
