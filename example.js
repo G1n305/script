@@ -37,12 +37,12 @@ console.log("starting...");
 
 while (true) {
     led_blink();
-    delay(1000);
+    _delay(1000);
     reset_tag_list();
     getTakeIn();
     getTakeOut();
     getNumTagCurrent();
     getNumTagLast();
-    
+    _delay(1000);
 }
 
