@@ -43,9 +43,9 @@ while (true) {
     //getTakeOut();
     //getNumTagCurrent();
     //getNumTagLast();
-    printLastOnetag();
+    //printLastOnetag();
     //reset_tag_list();
-    //printCurrentOnetag();
+    printCurrentOnetag();
     //CheckCRC(ctx, RecvBuff, RecvBuff[0]);
     _delay(1000);
 }
