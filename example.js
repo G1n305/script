@@ -11,4 +11,5 @@ printCurrentOnetag();
 detroyInventory();
 //checkReadCmdOnly(0);
 StopReadCmdOnly(0);
-printInformation();
+//printInformation();
+askUserAndExecute();
