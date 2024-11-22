@@ -43,6 +43,7 @@ while (true) {
     getTakeOut();
     getNumTagCurrent();
     getNumTagLast();
+    printLastOnetag();
     _delay(1000);
 }
 
