@@ -38,11 +38,11 @@ console.log("starting...");
 while (true) {
     led_blink();
     _delay(1000);
-    reset_tag_list();
-    getTakeIn();
-    getTakeOut();
-    getNumTagCurrent();
-    getNumTagLast();
+    //reset_tag_list();
+    //getTakeIn();
+    //getTakeOut();
+    //getNumTagCurrent();
+    //getNumTagLast();
     printLastOnetag();
     _delay(1000);
 }
