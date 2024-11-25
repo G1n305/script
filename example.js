@@ -16,25 +16,6 @@
 
 console.log("starting...");
 
-// function askUserAndExecute(choice) {
-//     switch (choice) {
-//         case 1:
-//             led_blink();
-//             break;
-//         case 2:
-//             reset_tag_list();
-//             break;
-//         case 3:
-//             getTakeIn();
-//             break;
-//         case 4:
-//             getTakeOut();
-//             break;
-//         default:
-//             console.log("Invalid choice");
-//     }
-// }
-
 while (true) {
     led_blink();
     _delay(1000);
@@ -42,7 +23,7 @@ while (true) {
     //getTakeIn();
     //getTakeOut();
     //getNumTagCurrent();
-    //getNumTagLast();
+    getNumTagLast();
     //printLastOnetag();
     //reset_tag_list();
     printCurrentOnetag();
