@@ -23,10 +23,10 @@ while (true) {
     //getTakeIn();
     //getTakeOut();
     //getNumTagCurrent();
-    getNumTagLast();
+    //getNumTagLast();
     printLastOnetag();
     //reset_tag_list();
-    printCurrentOnetag();
+    //printCurrentOnetag();
     //CheckCRC(ctx, RecvBuff, RecvBuff[0]);
     _delay(1000);
 }
