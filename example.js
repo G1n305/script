@@ -32,5 +32,10 @@ while (true) {
     printCurrentOnetag();
     _delay(1000);
     reset_tag_list();
+    detroyInventory();
+    getTakeIn();
+    getTakeOut();
+    _delay(1000);
+    printInformation();
 }
 
