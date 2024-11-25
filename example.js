@@ -19,11 +19,6 @@ console.log("starting...");
 while (true) {
     led_blink();
     _delay(1000);
-    //reset_tag_list();
-    //getTakeIn();
-    //getTakeOut();
-    //getNumTagCurrent();
-    //getNumTagLast();
     printLastOnetag();
     //reset_tag_list();
     //printCurrentOnetag();
@@ -38,6 +33,6 @@ while (true) {
     _delay(1000);
     detroyInventory();
     reset_tag_list();
-    
+    _delay(1000);
 }
 
