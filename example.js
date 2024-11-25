@@ -31,13 +31,13 @@ while (true) {
     _delay(1000);
     printCurrentOnetag();
     _delay(1000);
-    reset_tag_list();
-    detroyInventory();
     getTakeIn();
     getTakeOut();
     _delay(1000);
     printInformation();
     _delay(1000);
-    checkReadCmdOnly(0);
+    detroyInventory();
+    reset_tag_list();
+    
 }
 
