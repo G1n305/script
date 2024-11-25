@@ -37,5 +37,7 @@ while (true) {
     getTakeOut();
     _delay(1000);
     printInformation();
+    _delay(1000);
+    checkReadCmdOnly(0);
 }
 
