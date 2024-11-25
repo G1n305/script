@@ -24,7 +24,7 @@ while (true) {
     //getTakeOut();
     //getNumTagCurrent();
     getNumTagLast();
-    //printLastOnetag();
+    printLastOnetag();
     //reset_tag_list();
     printCurrentOnetag();
     //CheckCRC(ctx, RecvBuff, RecvBuff[0]);
