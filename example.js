@@ -27,8 +27,8 @@ while (true) {
     getTakeIn();
     getTakeOut();
     _delay(1000);
-    //printInformation();
-    //_delay(1000);
+    printInformation();
+    _delay(1000);
     detroyInventory();
     reset_tag_list();
     _delay(1000);
