@@ -24,10 +24,10 @@ while (true) {
     // _delay();
     // getNumTagLast();
     // _delay();
-    printLastOnetag();
-    _delay();
-    printCurrentOnetag();
-    _delay();
+    // printLastOnetag();
+    // _delay();
+    // printCurrentOnetag();
+    // _delay();
     getNumTagCurrent();
     _delay();
     getNumTagLast();
