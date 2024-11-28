@@ -17,8 +17,8 @@
 console.log("starting...");
 
 while (true) {
-    led_blink(250);
-    _delay(1000);
+    // led_blink(250);
+    // _delay(1000);
     console.log("starting...");
     // printLastOnetag();
     // _delay(1000);
