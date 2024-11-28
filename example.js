@@ -17,7 +17,7 @@
 console.log("starting...");
 
 while (true) {
-    console.log("starting...");
+    led_blink();
     _delay(1000);
 }
 
