@@ -16,6 +16,7 @@
 console.log("starting...");
 while (true) {
     // led_blink();
+    console.log("starting...");
      _delay(1000);
     // getNumTagCurrent();
     // _delay(1000);
