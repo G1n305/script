@@ -1,5 +1,5 @@
 console.log("starting...");
-while (true) {
+// while (true) {
     led_blink();
     console.log("blink led...");
     _delay();
@@ -16,5 +16,5 @@ while (true) {
     getNumTagLast();
     _delay();
     led_blink();
-}
+// }
 
