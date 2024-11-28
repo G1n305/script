@@ -12,10 +12,8 @@
 // //checkReadCmdOnly(0);
 // //StopReadCmdOnly(0);
 // //printInformation();
-// askUserAndExecute(1);
-
+// askUserAndExecute(1)
 console.log("starting...");
-
 while (true) {
     led_blink();
     _delay(1000);
