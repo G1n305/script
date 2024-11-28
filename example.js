@@ -20,17 +20,17 @@ while (true) {
     led_blink(250);
     _delay(1000);
     console.log("starting...");
-    printLastOnetag();
-    _delay(1000);
-    printCurrentOnetag();
-    _delay(1000);
-    getTakeIn();
-    getTakeOut();
-    _delay(1000);
-    printInformation();
-    _delay(1000);
-    detroyInventory();
-    reset_tag_list();
+    // printLastOnetag();
+    // _delay(1000);
+    // printCurrentOnetag();
+    // _delay(1000);
+    // getTakeIn();
+    // getTakeOut();
+    // _delay(1000);
+    // printInformation();
+    // _delay(1000);
+    // detroyInventory();
+    // reset_tag_list();
     _delay(1000);
 }
 
