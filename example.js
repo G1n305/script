@@ -26,7 +26,7 @@ while (true) {
     // _delay(1000);
     printLastOnetag();
     _delay(1000);
-    // printCurrentOnetag();
-    // _delay(1000);
+    printCurrentOnetag();
+    _delay(1000);
 }
 
