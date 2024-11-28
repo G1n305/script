@@ -15,9 +15,9 @@
 // askUserAndExecute(1)
 console.log("starting...");
 while (true) {
-    // led_blink();
+    led_blink(1000);
     console.log("starting...");
-     _delay(1000);
+     // _delay(1000);
     // getNumTagCurrent();
     // _delay(1000);
     // getNumTagLast();
