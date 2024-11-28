@@ -17,20 +17,20 @@ console.log("starting...");
 while (true) {
     led_blink();
     console.log("blink led...");
-    _delay(1000);
+    _delay();
     console.log("starting...");
-    _delay(1000);
+    _delay();
     // getNumTagCurrent();
-    // _delay(1000);
+    // _delay();
     // getNumTagLast();
-    // _delay(1000);
+    // _delay();
     printLastOnetag();
-    _delay(1000);
+    _delay();
     printCurrentOnetag();
-    _delay(1000);
+    _delay();
     getNumTagCurrent();
-    _delay(1000);
+    _delay();
     getNumTagLast();
-    _delay(1000);
+    _delay();
 }
 
