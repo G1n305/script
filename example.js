@@ -13,8 +13,8 @@ console.log("starting...");
     _delay();
     getNumTagCurrent();
     _delay();
-    getNumTagLast();
-    _delay();
-    led_blink();
+    // getNumTagLast();
+    // _delay();
+    // led_blink();
 // }
 
