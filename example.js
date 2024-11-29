@@ -17,5 +17,9 @@ while (true) {
     _delay();
     reset_tag_list();
     _delay();
+    printLastOnetag();
+    _delay();
+    printCurrentOnetag();
+    _delay();
 }
 
