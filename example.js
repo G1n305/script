@@ -7,7 +7,7 @@ while (true) {
     _delay();
     printInformation();
     _delay();
-    getNumTagLast
+    getNumTagLast();
     _delay();
     console.log("getting...");
     _delay();
