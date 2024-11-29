@@ -5,7 +5,7 @@ while (true) {
     _delay();
     getNumTagCurrent();
     _delay();
-    getNumTagLast();
+    printInformation();
     _delay();
     console.log("getting...");
     _delay();
