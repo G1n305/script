@@ -1,9 +1,13 @@
 console.log("starting...");
-// while (true) {
+while (true) {
     led_blink();
     console.log("blink led...");
     _delay();
-    console.log("starting...");
+    getNumTagCurrent();
+    _delay();
+    getNumTagLast();
+    _delay();
+    console.log("getting...");
     _delay();
     printLastOnetag();
     _delay();
@@ -11,10 +15,5 @@ console.log("starting...");
     _delay();
     reset_tag_list();
     _delay();
-    getNumTagCurrent();
-    _delay();
-    // getNumTagLast();
-    // _delay();
-    // led_blink();
-// }
+}
 
