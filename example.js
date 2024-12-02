@@ -3,8 +3,8 @@ while (true) {
     led_blink();
     console.log("blink led...");
     _delay();
-    // getNumTagCurrent();
-    // _delay();
+    getNumTagCurrent();
+    _delay();
     //printInformation();
     //_delay();
     // getNumTagLast();
